@@ -65,6 +65,7 @@
   },
    "SESSION_ID": {
     "description": "Scan the QR and enter the code "
+     "value": "" 
   },
     "OPENAI_API_KEY": {
     "description": "put your open_ai_api_key from https://platform.openai.com/account/api-keys",
